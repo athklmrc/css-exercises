@@ -1,0 +1,23 @@
+p {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.p3 {
+    font-size: 24px;
+}
+
+
+div {
+    font-family: 'FreeSans' , sans-serif;
+    font-size: 24px;
+}
+
+#div2 {
+    color: blue;
+    font-size: 36px;
+}
+#div4 {
+    background-color: palegreen;
+    font-weight: bold;
+}
